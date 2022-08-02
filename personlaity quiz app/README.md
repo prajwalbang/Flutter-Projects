@@ -1,4 +1,4 @@
-# Personality Quix
+# Personality Quiz App
 
 This a simple flutter app which i created during learning how to use containers, cards, splitting apps into multiple widgets and other basics. This app does not do much just you can answer a few questions like what is your favourite color, animal etc and in the end based on your score you are given a statement describing your personality, you can also reset the quiz in the app to take it again. Peace ✌
 
