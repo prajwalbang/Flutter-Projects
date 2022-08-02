@@ -1,6 +1,6 @@
 # Personality Quiz App
 
-This is a simple flutter app which I created during learning how to use containers, cards, splitting apps into multiple widgets and other basics in Flutter. In this app you can answer a few questions like what is your favourite color, animal etc and in the end based on your score you are given a statement describing your personality, you can also reset the quiz in the app to take it again. Peace ✌
+This is a basic Flutter app that I made as I learned how to utilise containers, cards, divide apps into many widgets, and other Flutter fundamentals. You respond to questions in this app about your favourite colour, animal, etc., and in the end you are given a statement that describes your personality based on your score. You may even reset the quiz in the app to do it again. Peace ✌
 
 ## Getting Started
 
