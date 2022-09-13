@@ -1,0 +1,1 @@
+Working on this project right now. This app will allow you to do exactly what it says: enter your own spending, keep track of your overall expenses, and follow them using graphs, charts, and other visual aids.
