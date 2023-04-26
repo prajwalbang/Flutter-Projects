@@ -1,6 +1,6 @@
-# ghar_ka_khana
+# Food delivery app 
 
-A new Flutter project.
+Food delivery app UI
 
 ## Getting Started
 
