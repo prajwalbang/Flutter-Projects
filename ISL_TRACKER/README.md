@@ -1,6 +1,7 @@
 # isl_tracker
 
-A new Flutter project.
+Indian Sign Language Tracking app: Using python for hand sign 
+recognition and dart and flutter for building the app
 
 ## Getting Started
 
